@@ -1,5 +1,5 @@
 {
-  "name": "oop-classes",
+  "name": "oop-methods",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mogushkov/OOP-classes.git"
+    "url": "git+https://github.com/Mogushkov/OOP-methods.git"
   },
   "author": "Mogushkov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mogushkov/OOP-classes/issues"
+    "url": "https://github.com/Mogushkov/OOP-methods/issues"
   },
-  "homepage": "https://github.com/Mogushkov/OOP-classes#readme",
+  "homepage": "https://github.com/Mogushkov/OOP-methods#readme",
   "devDependencies": {
     "@babel/cli": "^7.13.14",
     "@babel/core": "^7.13.14",
